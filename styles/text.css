@@ -1,0 +1,63 @@
+p {
+  /* font-family: "Noto Sans Old Persian", sans-serif; */
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.video-title {
+  font-size: 18px;
+  font-weight: bold;
+  width: 280px;
+  line-height: 24px; /* khoang cach giua cac dong */
+  margin-bottom: 5px;
+
+}
+.video-stats {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-bottom: 20px;
+}
+
+.video-author {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-bottom: 20px;
+}
+
+.video-description {
+  font-size: 14px;
+  width: 280px;
+  line-height: 22px;
+  color: rgb(96, 96, 96);
+  margin-bottom: 100px;
+}
+
+.apple-text {
+  font-size: 14px;
+  background-color: rgb(227, 65, 64);
+  color: white;
+  text-align: center;
+  margin-bottom: 50px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.link-shop {
+  transition: hover 0.15s;
+}
+
+.link-shop:hover {
+  text-decoration: underline;
+}
+
+.link {
+  color: white;
+  transition: 0.15s;
+  text-decoration: none;
+  margin-left: 15px;
+  cursor: pointer;
+}
+
+.link:hover {
+  text-decoration: underline;
+}

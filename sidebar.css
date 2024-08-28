@@ -6,3 +6,9 @@
   bottom: 0;
   background-color: white;
 }
+.sidebar-link {
+  height: 76px;
+}
+.sidebar-link:hover {
+  background-color: rgb(233, 231, 231);
+} 
